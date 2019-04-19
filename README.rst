@@ -5,6 +5,13 @@ DART-FSS Tutorial
 Dart API Key 발급은 `DART OPEN
 API <http://dart.fss.or.kr/dsap001/intro.do>`__\ 를 참고하시기 바랍니다.
 
+라이브러리 설치 방법
+--------------------
+
+.. code:: bash
+
+    pip install dart-fss
+
 1. OPEN API 인증
 ----------------
 
